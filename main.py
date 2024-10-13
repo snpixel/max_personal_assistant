@@ -126,11 +126,11 @@ if __name__ == "__main__":
             speak("Opening code plese wait")
             os.startfile(codePath)
 
-        # elif 'email to shreyas' in query:
+        # elif 'email to person' in query:
         #     try:
         #         speak("What should I say?")
         #         content = takeCommand()
-        #         to = "namdeoshreyas@gmail.com"    
+        #         to = "person mail id"    
         #         sendEmail(to, content)
         #         speak("Email has been sent!")
         #     except Exception as e:
